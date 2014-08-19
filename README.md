@@ -2,7 +2,7 @@ Getting_and_Cleaning_Data
 ========================
 The objective of this excercise is to show one's proficience and skill level on how to gather,work and clean any given data set. 
 This is useful in cleaning up the data and present tidy data that can be used for later analysis. 
-The expectation is to produce a tidy data set, an R-script to perform the analysis and a CodeBook describing all the elements
+The expectation is to produce a tidy data set, an R-script to perform the analysis and a CodeBook describing all elements
 within the final data.
 
 The R script run_analysis.R will merge the test and training data into one data set, measure the mean and standard deviation
