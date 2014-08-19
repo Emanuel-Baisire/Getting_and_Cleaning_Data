@@ -1,6 +1,6 @@
 Getting_and_Cleaning_Data
 ========================
-The object of this excercise is to show one's proficience and skill level on how to gather,work and clean any given data set. 
+The objective of this excercise is to show one's proficience and skill level on how to gather,work and clean any given data set. 
 This is useful in cleaning up the data and present tidy data that can be used for later analysis. 
 The expectaion is produce a tidy data set, an R-script that performed the analysis and a CodeBook describing all the elements
 used for the final data.
