@@ -6,7 +6,7 @@ The expectation is to produce a tidy data set, an R-script that performed the an
 
 The R script run_analysis.R will merge the test and training data into one data set, measure the mean and standard deviation including the provision of appropriate labels and names. 
 
-It will also create a second, independent tidy data set with the average of each variable for each activity and each subject.
+It will also create a second, independent tidy data set with the average of each variable, activity and subject.
 
 Below, is the data source to be used for the analysis:
 
