@@ -25,7 +25,7 @@ Variables
 
 "subject_id": ID given to each subject (integer)
 
-
+Used Rbind to add all X, Y, and subject
 
 References
 
