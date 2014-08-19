@@ -5,7 +5,17 @@ The data source is from the Human Activity Recognition Using Smartphones Data Se
 routine of different individuals performing different activities. The study was based on the observation made by 
 Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, and Luca Oneto.
 
-The orignal data source and more information can be found here.
+The R script run_analysis.R will merge the test and training data into one data set, measure the mean and standard deviation including the provision of appropriate labels and names. 
+
+It will also create a second, independent tidy data set with the average of each variable, activity and subject.
+
+Below, is the data source to be used for the analysis:
+
+http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
+
+Here are the data for the project: 
+
+https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
 Variables
 
@@ -15,5 +25,5 @@ Variables
 
 "subject_id": ID given to each subject (integer)
 
-Process
+
 
